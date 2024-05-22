@@ -1,1 +1,6 @@
-
+body {
+    font-family: Arial, sans-serif; /* Specify your desired font */
+}
+p {
+    font-family: Courier New, sans-serif; /* Specify your desired font */
+}
